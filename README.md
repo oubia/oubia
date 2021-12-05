@@ -13,7 +13,7 @@
 **Contact me :** 
 <br/>
 <a href="https://github.com/oubia">
-  <img align="left" alt="Oubia's LinkedIn" width="22px" src="https://img.icons8.com/ios-filled/48/000000/github.png" />
+  <img align="left" alt="Oubia's Github" width="22px" src="https://img.icons8.com/color/48/000000/github--v3.png" />
 </a>
 <a href="dev.oubia@gmail.com">
   <img align="left" alt="Oubia's Email" width="22px" src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
