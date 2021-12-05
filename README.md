@@ -45,7 +45,7 @@
 <img alt="Ouba"  src="https://img.icons8.com/color/48/000000/javascript.png" width="40">
  </a>
  <a href="https://www.djangoproject.com">
-<img alt="Oubia" src="https://img.icons8.com/color/48/000000/django.png" width="40">
+<img alt="Oubia" src="https://img.icons8.com/ios/50/000000/django.png" width="40">
  </a>
    <a href="https://reactjs.org">
 <img alt="Oubia" src="https://img.icons8.com/plasticine/48/000000/react.png" width="55">
