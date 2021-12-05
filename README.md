@@ -45,7 +45,7 @@
 <img alt="Ouba"  src="https://img.icons8.com/color/48/000000/javascript.png" width="40">
  </a>
  <a href="https://www.djangoproject.com">
-<img alt="oubia"  src="https://img.icons8.com/external-tal-revivo-fresh-tal-revivo/28/000000/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-fresh-tal-revivo.png" width="55"/>
+<img alt="oubia" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/36/000000/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-green-tal-revivo.png" width="55"/>
  </a>
    <a href="https://reactjs.org">
 <img alt="Oubia" src="https://img.icons8.com/plasticine/48/000000/react.png" width="55">
