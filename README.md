@@ -1,5 +1,5 @@
 
-### Hi there 👋, I'm [OUBIA](https://github.com/oubia) 👩‍💻🇲🇦
+### Hi there 👋, I'm [OUBIA](https://github.com/oubia)!!
 
 4 Years of software development & building machine learning models experience in web developement and machine learning, developement of web applications using Django,JavaScript and React,building machine learning models using scikit-learn,Python.
 
