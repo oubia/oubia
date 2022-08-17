@@ -25,7 +25,7 @@
 
 
 
-**Languages and Technologies:**
+
 <br/>
 **Languages and Technologies:**
 <br/>
