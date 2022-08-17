@@ -27,9 +27,16 @@
 
 **Languages and Technologies:**
 <br/>
+**Languages and Technologies:**
+<br/>
+<br/>
+<div>
+<div align="center">
+  <a href="https://github.com/IzaacBaptista">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oubia&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oubia&layout=compact&langs_count=6&theme=dark"/>
+</div>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oubia)](https://github.com/WaffIee/github-readme-stats)
         </h3>
 <p float="left">
  <a href="https://www.java.com/">
