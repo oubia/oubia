@@ -37,7 +37,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oubia&layout=compact&langs_count=6&theme=dark"/>
 </div>
 
-        </h3>
 <p float="left">
  <a href="https://www.java.com/">
 <img alt="Oubia" src="https://devstickers.com/assets/img/pro/7kaq.png" width="40">
@@ -48,23 +47,27 @@
  </a>
   
 
- <a href="https://www.javascript.com">
-<img alt="Ouba"  src="https://img.icons8.com/color/48/000000/javascript.png" width="40">
- </a>
+
  <a href="https://www.djangoproject.com">
 <img alt="oubia" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/36/000000/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-green-tal-revivo.png" width="55"/>
  </a>
-   <a href="https://reactjs.org">
-<img alt="Oubia" src="https://img.icons8.com/plasticine/48/000000/react.png" width="55">
- </a>
-  <a href="https://nodejs.org/en/">
-<img alt="Oubia" src="https://devstickers.com/assets/img/pro/iuw5.png" width="40">
-  </a>
- <a href="https://en.wikipedia.org/wiki/HTML">
-<img alt="Oubia" src="https://devstickers.com/assets/img/pro/iqm9.png" width="40">
+<a href="https://en.wikipedia.org/wiki/HTML">
+<img alt="Wafaa" src="https://devstickers.com/assets/img/pro/iqm9.png" width="40">
  </a>
  <a href="https://en.wikipedia.org/wiki/CCS3">
-<img alt="Oubia" src="https://devstickers.com/assets/img/pro/8pnd.png" width="40">
+<img alt="Wafaa" src="https://devstickers.com/assets/img/pro/8pnd.png" width="40">
+  </a>
+ <a href="https://en.wikipedia.org/wiki/JavaScript">
+<img alt="Wafaa" src="https://devstickers.com/assets/img/pro/i4eg.png" width="40">
+  </a>
+ <a href="https://reactjs.org/">
+<img alt="Wafaa" src="https://devstickers.com/assets/img/pro/z392.png" width="40">
+  </a>
+ <a href="https://nodejs.org/en/">
+<img alt="Wafaa" src="https://devstickers.com/assets/img/pro/iuw5.png" width="40">
+  </a>
+ <a href="https://www.typescriptlang.org">
+<img alt="Wafaa" src="https://devstickers.com/assets/img/pro/tzgi.png" width="40">
   </a>
  
  <a href="https://scikit-learn.org/stable/index.html#">
