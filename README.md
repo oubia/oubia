@@ -6,7 +6,6 @@
 - 🎓 I'm Studying Computer Science & data Engineering 
 - 🔭 I’m currently working as a Full Stack Developer : Django and React !
 - 🌱 I’m currently learning DeepLearning and NLP.
-- 😄 Pronouns: he/him
 - 🌱 Personal Portfolio www.oubia.me .
 
 <br/>
