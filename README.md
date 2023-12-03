@@ -4,7 +4,7 @@
 4 Years of software development & building machine learning models experience in web developement and machine learning, developement of web applications using Django,JavaScript and React,building machine learning models using scikit-learn,Python.
 
 - 🎓 I'm Studying Computer Science & data Engineering 
-- 🔭 I’m currently working as a Full Stack Developer : Django and React !
+- 🔭 I’m currently working as a Full Stack Developer: Django and React!
 - 🌱 I’m currently learning DeepLearning and NLP.
 - 🌱 Personal Portfolio www.oubia.me .
 
