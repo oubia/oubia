@@ -1,16 +1,17 @@
 
 ### Hi there 👋, I'm [OUBIA](https://github.com/oubia)!!
 
-4 Years of software development & building machine learning models experience in web developement and machine learning, developement of web applications using Django,JavaScript and React,building machine learning models using scikit-learn,Python.
+👋 Hey there! I'm Mohammed Oubia, and I've been immersed in the world of software development and machine learning for the past 5 years. My journey has involved crafting web applications with Django, JavaScript, and React, as well as delving into the fascinating realm of machine learning with tools like scikit-learn and Python.
 
-- 🎓 I'm Studying Computer Science & data Engineering 
-- 🔭 I’m currently working as a Full Stack Developer: Django and React!
-- 🌱 I’m currently learning DeepLearning and NLP.
-- 🌱 Personal Portfolio www.oubia.me .
+🎓 Currently, I'm pursuing my passion for Artificial Intelligence Engineering, diving deeper into the intricacies of this exciting field. Alongside my studies, I'm also working as a Full Stack Developer, honing my skills in Django and React to build robust and user-friendly applications.
+
+🔭 When I'm not busy coding, you can find me pursuing my Master's degree at the University of Bologna, where I'm continually expanding my knowledge and exploring new frontiers in technology.
+
+🌱 Curious to see some of my work? Check out my personal portfolio at www.oubia.me. Additionally, I have experience in optimization techniques like Constraint Programming (CP) and Satisfiability Programming (SAT), which I use to tackle complex problems efficiently. Let's connect and collaborate on innovative projects together!
 
 <br/>
 
-**Contact me :** 
+**Contact me:** 
 <br/>
 <a href="https://github.com/oubia">
   <img align="left" alt="Oubia's Github" width="22px" src="https://img.icons8.com/color/48/000000/github--v3.png" />
@@ -44,22 +45,22 @@
 <img alt="oubia" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/36/000000/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-green-tal-revivo.png" width="55"/>
  </a>
 <a href="https://en.wikipedia.org/wiki/HTML">
-<img alt="Wafaa" src="https://devstickers.com/assets/img/pro/iqm9.png" width="40">
+<img alt="oubia" src="https://devstickers.com/assets/img/pro/iqm9.png" width="40">
  </a>
  <a href="https://en.wikipedia.org/wiki/CCS3">
-<img alt="Wafaa" src="https://devstickers.com/assets/img/pro/8pnd.png" width="40">
+<img alt="oubia" src="https://devstickers.com/assets/img/pro/8pnd.png" width="40">
   </a>
  <a href="https://en.wikipedia.org/wiki/JavaScript">
-<img alt="Wafaa" src="https://devstickers.com/assets/img/pro/i4eg.png" width="40">
+<img alt="oubia" src="https://devstickers.com/assets/img/pro/i4eg.png" width="40">
   </a>
  <a href="https://reactjs.org/">
-<img alt="Wafaa" src="https://devstickers.com/assets/img/pro/z392.png" width="40">
+<img alt="oubia" src="https://devstickers.com/assets/img/pro/z392.png" width="40">
   </a>
  <a href="https://nodejs.org/en/">
-<img alt="Wafaa" src="https://devstickers.com/assets/img/pro/iuw5.png" width="40">
+<img alt="oubia" src="https://devstickers.com/assets/img/pro/iuw5.png" width="40">
   </a>
  <a href="https://www.typescriptlang.org">
-<img alt="Wafaa" src="https://devstickers.com/assets/img/pro/tzgi.png" width="40">
+<img alt="oubia" src="https://devstickers.com/assets/img/pro/tzgi.png" width="40">
   </a>
  
  <a href="https://scikit-learn.org/stable/index.html#">
