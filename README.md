@@ -29,11 +29,43 @@ I'm passionate about building intelligent AI-powered solutions and **optimizing 
 [![LinkedIn](https://img.icons8.com/color/25/linkedin.png)](https://www.linkedin.com/in/oubia-mohammed-724b32189/)
 
 ---
-## ⚡ Tech Stack & Tools
 
-| Languages & Frameworks | AI & Data Science | LLM & RAG | Databases & DevOps | Tools & IDEs |
-|------------------------|-------------------|-----------|--------------------|--------------|
-| [![Python](https://img.icons8.com/color/25/python.png)](https://www.python.org/) <br> [![TypeScript](https://img.icons8.com/color/25/typescript.png)](https://www.typescriptlang.org/) <br> [![React](https://img.icons8.com/officel/25/react.png)](https://react.dev/) <br> [![Node.js](https://img.icons8.com/color/25/nodejs.png)](https://nodejs.org/) <br> [![Laravel](https://img.icons8.com/ios-filled/25/laravel.png)](https://laravel.com/) <br> [![Django](https://img.icons8.com/ios/25/django.png)](https://www.djangoproject.com/) <br> [![HTML5](https://img.icons8.com/color/25/html-5.png)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) <br> [![CSS3](https://img.icons8.com/color/25/css3.png)](https://developer.mozilla.org/en-US/docs/Web/CSS) | [![TensorFlow](https://img.icons8.com/color/25/tensorflow.png)](https://www.tensorflow.org/) <br> [![PyTorch](https://pytorch.org/assets/images/logo-icon.svg) <br> [![Scikit-Learn]([https://img.icons8.com/color/25/scikit-learn.png](https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png))](https://scikit-learn.org/) <br> [![NumPy](https://img.icons8.com/color/25/numpy.png)](https://numpy.org/) <br> [![Pandas](https://img.icons8.com/color/25/pandas.png)](https://pandas.pydata.org/) <br> [![OpenCV](https://opencv.org/wp-content/uploads/2022/05/logo.png)](https://opencv.org/) | [![LangChain](https://python.langchain.com/img/brand/wordmark-dark.png)](https://python.langchain.com/) <br> [![Qdrant](https://qdrant-tper.bitapp.dev/dashboard/logo.png)](https://qdrant.tech/) <br> [![Bedrock](https://aws.amazon.com/?nc2=h_lg)](https://aws.amazon.com/bedrock/) <br> [![ChromaDB](https://img.icons8.com/color/25/ai.png)](https://chromadb.com/) | [![SQL](https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000)]([https://www.postgresql.org/](https://en.wikipedia.org/wiki/SQL)) <br> [![MongoDB](https://img.icons8.com/external-tal-revivo-color-tal-revivo/25/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png)](https://www.mongodb.com/) <br> [![Docker](https://img.icons8.com/color/25/docker.png)](https://www.docker.com/) <br> [![Kubernetes](https://img.icons8.com/color/25/kubernetes.png)](https://kubernetes.io/) | [![VS Code](https://img.icons8.com/color/25/visual-studio-code-2019.png)](https://code.visualstudio.com/) <br> [![Jupyter](https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg)](https://jupyter.org/) <br> [![Git](https://img.icons8.com/color/25/git.png)](https://git-scm.com/) |
+## ⚡ Tech Stack & Tools  
+
+### 🖥️ **Languages & Frameworks**
+[![Python](https://img.icons8.com/color/25/python.png)](https://www.python.org/)
+[![TypeScript](https://img.icons8.com/color/25/typescript.png)](https://www.typescriptlang.org/)
+[![React](https://img.icons8.com/officel/25/react.png)](https://react.dev/)
+[![Node.js](https://img.icons8.com/color/25/nodejs.png)](https://nodejs.org/)
+[![Laravel](https://img.icons8.com/ios-filled/25/laravel.png)](https://laravel.com/)
+[![Django](https://img.icons8.com/ios/25/django.png)](https://www.djangoproject.com/)
+[![HTML5](https://img.icons8.com/color/25/html-5.png)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![CSS3](https://img.icons8.com/color/25/css3.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+### 🤖 **AI & Data Science**
+[![TensorFlow](https://img.icons8.com/color/25/tensorflow.png)](https://www.tensorflow.org/)
+[![PyTorch](https://img.icons8.com/material-sharp/25/pytorch.png)](https://pytorch.org/)
+[![Scikit-Learn](https://img.icons8.com/color/25/scikit-learn.png)](https://scikit-learn.org/)
+[![NumPy](https://img.icons8.com/color/25/numpy.png)](https://numpy.org/)
+[![Pandas](https://img.icons8.com/color/25/pandas.png)](https://pandas.pydata.org/)
+[![OpenCV](https://img.icons8.com/external-outline-juicy-fish/25/external-ai-artificial-intelligence-outline-outline-juicy-fish.png)](https://opencv.org/)
+
+### 🔍 **LLM & Retrieval-Augmented Generation (RAG)**
+[![LangChain](https://img.icons8.com/external-flaticons-lineal-color-flat-icons/25/external-machine-learning-data-science-flaticons-lineal-color-flat-icons.png)](https://python.langchain.com/)
+[![Qdrant](https://img.icons8.com/ios-filled/25/database.png)](https://qdrant.tech/)
+[![Pinecone](https://img.icons8.com/external-wanicon-flat-wanicon/25/external-cloud-machine-learning-and-ai-wanicon-flat-wanicon.png)](https://www.pinecone.io/)
+[![ChromaDB](https://img.icons8.com/color/25/ai.png)](https://chromadb.com/)
+
+### 🗄️ **Databases & DevOps**
+[![PostgreSQL](https://img.icons8.com/color/25/postgresql.png)](https://www.postgresql.org/)
+[![MongoDB](https://img.icons8.com/external-tal-revivo-color-tal-revivo/25/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png)](https://www.mongodb.com/)
+[![Docker](https://img.icons8.com/color/25/docker.png)](https://www.docker.com/)
+[![Kubernetes](https://img.icons8.com/color/25/kubernetes.png)](https://kubernetes.io/)
+
+### 🔧 **Tools & IDEs**
+[![VS Code](https://img.icons8.com/color/25/visual-studio-code-2019.png)](https://code.visualstudio.com/)
+[![Jupyter](https://img.icons8.com/color/25/jupyter.png)](https://jupyter.org/)
+[![Git](https://img.icons8.com/color/25/git.png)](https://git-scm.com/)
 
 ---
 
