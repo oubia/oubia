@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Mohammed Oubia](https://github.com/oubia)!
+# Hi there 👋, I'm [Oubia](https://github.com/oubia)!
 
 🚀 **AI Engineer | Full-Stack Developer | NLP & Computer Vision Enthusiast**  
 
