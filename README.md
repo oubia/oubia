@@ -27,45 +27,44 @@ I'm passionate about building intelligent AI-powered solutions and **optimizing 
 [![GitHub](https://img.icons8.com/ios-filled/25/github.png)](https://github.com/oubia)
 [![Email](https://img.icons8.com/color/25/gmail.png)](mailto:dev.oubia@gmail.com)
 [![LinkedIn](https://img.icons8.com/color/25/linkedin.png)](https://www.linkedin.com/in/oubia-mohammed-724b32189/)
-
 ---
 
 ## ⚡ Tech Stack & Tools  
 
-### 🖥️ **Languages & Frameworks**
-[![Python](https://img.icons8.com/color/25/python.png)](https://www.python.org/)
-[![TypeScript](https://img.icons8.com/color/25/typescript.png)](https://www.typescriptlang.org/)
-[![React](https://img.icons8.com/officel/25/react.png)](https://react.dev/)
-[![Node.js](https://img.icons8.com/color/25/nodejs.png)](https://nodejs.org/)
-[![Laravel](https://img.icons8.com/ios-filled/25/laravel.png)](https://laravel.com/)
-[![Django](https://img.icons8.com/ios/25/django.png)](https://www.djangoproject.com/)
-[![HTML5](https://img.icons8.com/color/25/html-5.png)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-[![CSS3](https://img.icons8.com/color/25/css3.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+### **💻 Programming Languages**
+| [![Python](https://img.icons8.com/color/40/python.png)](https://www.python.org/) | [![TypeScript](https://img.icons8.com/color/40/typescript.png)](https://www.typescriptlang.org/) | [![JavaScript](https://img.icons8.com/color/40/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
+|---|---|---|
+| Python | TypeScript | JavaScript |
 
-### 🤖 **AI & Data Science**
-[![TensorFlow](https://img.icons8.com/color/25/tensorflow.png)](https://www.tensorflow.org/)
-[![PyTorch](https://img.icons8.com/material-sharp/25/pytorch.png)](https://pytorch.org/)
-[![Scikit-Learn](https://img.icons8.com/color/25/scikit-learn.png)](https://scikit-learn.org/)
-[![NumPy](https://img.icons8.com/color/25/numpy.png)](https://numpy.org/)
-[![Pandas](https://img.icons8.com/color/25/pandas.png)](https://pandas.pydata.org/)
-[![OpenCV](https://img.icons8.com/external-outline-juicy-fish/25/external-ai-artificial-intelligence-outline-outline-juicy-fish.png)](https://opencv.org/)
+### **🖥️ Web Development**
+| [![React](https://img.icons8.com/officel/40/react.png)](https://react.dev/) | [![Node.js](https://img.icons8.com/color/40/nodejs.png)](https://nodejs.org/) | [![Laravel](https://img.icons8.com/ios-filled/40/laravel.png)](https://laravel.com/) |
+|---|---|---|
+| React | Node.js | Laravel |
 
-### 🔍 **LLM & Retrieval-Augmented Generation (RAG)**
-[![LangChain](https://img.icons8.com/external-flaticons-lineal-color-flat-icons/25/external-machine-learning-data-science-flaticons-lineal-color-flat-icons.png)](https://python.langchain.com/)
-[![Qdrant](https://img.icons8.com/ios-filled/25/database.png)](https://qdrant.tech/)
-[![Pinecone](https://img.icons8.com/external-wanicon-flat-wanicon/25/external-cloud-machine-learning-and-ai-wanicon-flat-wanicon.png)](https://www.pinecone.io/)
-[![ChromaDB](https://img.icons8.com/color/25/ai.png)](https://chromadb.com/)
+### **🤖 AI & Machine Learning**
+| [![TensorFlow](https://img.icons8.com/color/40/tensorflow.png)](https://www.tensorflow.org/) | [![PyTorch](https://img.icons8.com/material-sharp/40/pytorch.png)](https://pytorch.org/) | [![Scikit-Learn](https://img.icons8.com/color/40/scikit-learn.png)](https://scikit-learn.org/) |
+|---|---|---|
+| TensorFlow | PyTorch | Scikit-Learn |
 
-### 🗄️ **Databases & DevOps**
-[![PostgreSQL](https://img.icons8.com/color/25/postgresql.png)](https://www.postgresql.org/)
-[![MongoDB](https://img.icons8.com/external-tal-revivo-color-tal-revivo/25/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png)](https://www.mongodb.com/)
-[![Docker](https://img.icons8.com/color/25/docker.png)](https://www.docker.com/)
-[![Kubernetes](https://img.icons8.com/color/25/kubernetes.png)](https://kubernetes.io/)
+### **📊 Data Science & Analytics**
+| [![NumPy](https://img.icons8.com/color/40/numpy.png)](https://numpy.org/) | [![Pandas](https://img.icons8.com/color/40/pandas.png)](https://pandas.pydata.org/) | [![OpenCV](https://img.icons8.com/external-outline-juicy-fish/40/external-ai-artificial-intelligence-outline-outline-juicy-fish.png)](https://opencv.org/) |
+|---|---|---|
+| NumPy | Pandas | OpenCV |
 
-### 🔧 **Tools & IDEs**
-[![VS Code](https://img.icons8.com/color/25/visual-studio-code-2019.png)](https://code.visualstudio.com/)
-[![Jupyter](https://img.icons8.com/color/25/jupyter.png)](https://jupyter.org/)
-[![Git](https://img.icons8.com/color/25/git.png)](https://git-scm.com/)
+### **🔍 LLM & RAG (Retrieval-Augmented Generation)**
+| [![LangChain](https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/external-machine-learning-data-science-flaticons-lineal-color-flat-icons.png)](https://python.langchain.com/) | [![Qdrant](https://img.icons8.com/ios-filled/40/database.png)](https://qdrant.tech/) | [![ChromaDB](https://img.icons8.com/color/40/ai.png)](https://chromadb.com/) |
+|---|---|---|
+| LangChain | Qdrant | ChromaDB |
+
+### **🗄️ Databases & DevOps**
+| [![PostgreSQL](https://img.icons8.com/color/40/postgresql.png)](https://www.postgresql.org/) | [![MongoDB](https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png)](https://www.mongodb.com/) | [![Docker](https://img.icons8.com/color/40/docker.png)](https://www.docker.com/) |
+|---|---|---|
+| PostgreSQL | MongoDB | Docker |
+
+### **🛠️ Tools & IDEs**
+| [![VS Code](https://img.icons8.com/color/40/visual-studio-code-2019.png)](https://code.visualstudio.com/) | [![Jupyter](https://img.icons8.com/color/40/jupyter.png)](https://jupyter.org/) | [![Git](https://img.icons8.com/color/40/git.png)](https://git-scm.com/) |
+|---|---|---|
+| VS Code | Jupyter | Git |
 
 ---
 
