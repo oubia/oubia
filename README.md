@@ -26,7 +26,7 @@ I'm passionate about building intelligent AI-powered solutions and **optimizing 
 
 [![GitHub](https://img.icons8.com/ios-filled/25/github.png)](https://github.com/oubia)
 [![Email](https://img.icons8.com/color/25/gmail.png)](mailto:dev.oubia@gmail.com)
-[![LinkedIn](https://img.icons8.com/color/25/linkedin.png)](https://www.linkedin.com/in/oubia-mohammed-724b32189/)
+[![LinkedIn](https://img.icons8.com/color/25/linkedin.png)](https://www.linkedin.com/in/mohammedoubia/)
 
 ---
 ## ⚡ Tech Stack & Tools
