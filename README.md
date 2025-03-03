@@ -1,82 +1,77 @@
+# Hi there 👋, I'm [Mohammed Oubia](https://github.com/oubia)!
 
-### Hi there 👋, I'm [OUBIA](https://github.com/oubia)!!
+🚀 **AI Engineer | Full-Stack Developer | NLP & Computer Vision Enthusiast**  
 
-👋 Hey there! I'm Mohammed Oubia, and I've been immersed in the world of software development and machine learning for the past 5 years. My journey has involved crafting web applications with Django, JavaScript, and React, as well as delving into the fascinating realm of machine learning with tools like scikit-learn and Python.
+I specialize in **Artificial Intelligence, Machine Learning, and Full-Stack Web Development**, with a strong focus on:  
+- **Natural Language Processing (NLP)**
+- **Computer Vision**
+- **Retrieval-Augmented Generation (RAG)**
+- **LangChain-based LLM Applications**
+- **Full-Stack Web Development with Laravel & React**
 
-🎓 Currently, I'm pursuing my passion for Artificial Intelligence Engineering, diving deeper into the intricacies of this exciting field. Alongside my studies, I'm also working as a Full Stack Developer, honing my skills in Django and React to build robust and user-friendly applications.
+I'm passionate about building intelligent AI-powered solutions and **optimizing large-scale applications** using modern **AI techniques and scalable web frameworks**.
 
-🔭 When I'm not busy coding, you can find me pursuing my Master's degree at the University of Bologna, where I'm continually expanding my knowledge and exploring new frontiers in technology.
+---
 
-🌱 Curious to see some of my work? Check out my personal portfolio at www.oubia.me. Additionally, I have experience in optimization techniques like Constraint Programming (CP) and Satisfiability Programming (SAT), which I use to tackle complex problems efficiently. Let's connect and collaborate on innovative projects together!
+## 🔬 About Me
+- 🎓 **Master's Student in AI Engineering** at the **University of Bologna**.  
+- 💻 **AI Engineer & Full-Stack Developer**, working on **RAG-based applications**, **vector search**, and **multimodal AI**.  
+- 🌍 **Experience** in **LangChain, Transformers, and deep learning** with frameworks like **PyTorch & TensorFlow**.  
+- 🏗 **Building AI-powered applications** that integrate **NLP, Computer Vision, and Large Language Models (LLMs)**.  
+- 🌱 **I’m currently exploring** advanced **Multi-Modal AI** and **LLM fine-tuning**.  
 
-<br/>
+---
 
-**Contact me:** 
-<br/>
-<a href="https://github.com/oubia">
-  <img align="left" alt="Oubia's Github" width="22px" src="https://img.icons8.com/color/48/000000/github--v3.png" />
-</a>
-<a href="dev.oubia@gmail.com">
-  <img align="left" alt="Oubia's Email" width="22px" src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
-</a>
-<a href="https://www.linkedin.com/in/oubia-mohammed-724b32189/">
-  <img align="left" alt="Oubia's LinkedIn" width="22px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />
-</a>
-<br />
+## 📫 Let's Connect!
 
+[![GitHub](https://img.icons8.com/ios-filled/50/github.png)](https://github.com/oubia)
+[![Email](https://img.icons8.com/color/48/gmail.png)](mailto:dev.oubia@gmail.com)
+[![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/oubia-mohammed-724b32189/)
 
+---
 
+## ⚡ Tech Stack & Tools  
 
-<br/>
+### 🖥️ **Languages & Frameworks**
+[![Python](https://img.icons8.com/fluency/48/python.png)](https://www.python.org/)
+[![TypeScript](https://img.icons8.com/color/48/typescript.png)](https://www.typescriptlang.org/)
+[![React](https://img.icons8.com/office/40/react.png)](https://react.dev/)
+[![Node.js](https://img.icons8.com/fluency/48/node-js.png)](https://nodejs.org/)
+[![Laravel](https://img.icons8.com/ios-filled/50/laravel.png)](https://laravel.com/)
+[![Django](https://img.icons8.com/ios/50/django.png)](https://www.djangoproject.com/)
 
+### 🤖 **AI & Data Science**
+[![TensorFlow](https://img.icons8.com/color/48/tensorflow.png)](https://www.tensorflow.org/)
+[![PyTorch](https://img.icons8.com/ios-filled/50/pytorch.png)](https://pytorch.org/)
+[![Scikit-Learn](https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/external-scikit-learn-data-analysis-and-machine-learning-logo-color-tal-revivo.png)](https://scikit-learn.org/)
+[![NumPy](https://img.icons8.com/color/48/numpy.png)](https://numpy.org/)
+[![Pandas](https://img.icons8.com/color/48/pandas.png)](https://pandas.pydata.org/)
+[![OpenCV](https://img.icons8.com/external-outline-juicy-fish/50/external-ai-artificial-intelligence-outline-outline-juicy-fish.png)](https://opencv.org/)
 
-<p float="left">
- <a href="https://www.java.com/">
-<img alt="Oubia" src="https://devstickers.com/assets/img/pro/7kaq.png" width="40">
- </a>
-  
-   <a href="https://www.python.org">
-<img alt="Oubia" src="https://img.icons8.com/fluency/48/000000/python.png" width="55">
- </a>
-  
+### 🔍 **LLM & Retrieval-Augmented Generation (RAG)**
+[![LangChain](https://img.icons8.com/external-flat-icons-maxicons/50/external-LangChain-ai-flat-icons-maxicons.png)](https://python.langchain.com/)
+[![Qdrant](https://img.icons8.com/external-those-icons-flat-those-icons/50/external-vector-search-digital-marketing-those-icons-flat-those-icons.png)](https://qdrant.tech/)
+[![Pinecone](https://img.icons8.com/external-wanicon-flat-wanicon/50/external-cloud-machine-learning-and-ai-wanicon-flat-wanicon.png)](https://www.pinecone.io/)
+[![ChromaDB](https://img.icons8.com/color/48/ai.png)](https://chromadb.com/)
 
+### 🗄️ **Databases & DevOps**
+[![PostgreSQL](https://img.icons8.com/color/48/postgresql.png)](https://www.postgresql.org/)
+[![MongoDB](https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png)](https://www.mongodb.com/)
+[![Docker](https://img.icons8.com/color/48/docker.png)](https://www.docker.com/)
+[![Kubernetes](https://img.icons8.com/color/48/kubernetes.png)](https://kubernetes.io/)
 
- <a href="https://www.djangoproject.com">
-<img alt="oubia" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/36/000000/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-green-tal-revivo.png" width="55"/>
- </a>
-<a href="https://en.wikipedia.org/wiki/HTML">
-<img alt="oubia" src="https://devstickers.com/assets/img/pro/iqm9.png" width="40">
- </a>
- <a href="https://en.wikipedia.org/wiki/CCS3">
-<img alt="oubia" src="https://devstickers.com/assets/img/pro/8pnd.png" width="40">
-  </a>
- <a href="https://en.wikipedia.org/wiki/JavaScript">
-<img alt="oubia" src="https://devstickers.com/assets/img/pro/i4eg.png" width="40">
-  </a>
- <a href="https://reactjs.org/">
-<img alt="oubia" src="https://devstickers.com/assets/img/pro/z392.png" width="40">
-  </a>
- <a href="https://nodejs.org/en/">
-<img alt="oubia" src="https://devstickers.com/assets/img/pro/iuw5.png" width="40">
-  </a>
- <a href="https://www.typescriptlang.org">
-<img alt="oubia" src="https://devstickers.com/assets/img/pro/tzgi.png" width="40">
-  </a>
- 
- <a href="https://scikit-learn.org/stable/index.html#">
-<img alt="Oubia" src="https://iconape.com/scikit-learn-logo-logo-icon-svg-png.html" width="40">
-  </a>
- <a href="https://pandas.pydata.org">
-<img alt="Oubia" src="https://img.icons8.com/dusk/100/000000/anaconda.png" width="40">
-  </a>
-   <a href="https://numpy.org">
-<img alt="Oubia" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" width="40">
-  </a>
- <a href="https://code.visualstudio.com/">
-<img alt="Oubia" src="https://devstickers.com/assets/img/pro/saxu.png" width="40">
-  </a>
+### 🔧 **Tools & IDEs**
+[![VS Code](https://img.icons8.com/color/48/visual-studio-code-2019.png)](https://code.visualstudio.com/)
+[![Jupyter](https://img.icons8.com/color/48/jupyter.png)](https://jupyter.org/)
+[![Git](https://img.icons8.com/color/48/git.png)](https://git-scm.com/)
 
-</p>
+---
 
-##
+## 📊 GitHub Stats
+![Oubia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oubia&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oubia&layout=compact&theme=tokyonight)
 
+---
+
+💡 **"Innovating AI-powered solutions, one line of code at a time."** 🚀  
+Feel free to connect, collaborate, or discuss any cool AI projects! 😃
